@@ -1,15 +1,3 @@
-## Hi there 👋
-
-<!--
-**sham-kumar-s/sham-kumar-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# 💫 About Me:
 🔭 I’m currently working on<br>Innovative React/Node.js projects, real-time apps using WebSockets, and live blockchain-integrated DApps powered by smart contracts and Web3 technologies.<br>Building interactive and high-performing user interfaces with Tailwind CSS, Bootstrap, and GSAP animations.<br><br>🤝 I’m looking to collaborate on<br>MERN stack, Web3, and open-source projects that combine modern UI design, blockchain integration, and real-time communication features.<br><br>🧩 I’m looking for help with<br>Optimizing smart contract integrations, improving backend scalability, and exploring GraphQL and SOAP APIs for hybrid web architectures.<br><br>🌱 I’m currently learning<br>Next.js for server-side rendering and SEO optimization, and SOAP to expand my experience with enterprise-level API systems.<br><br>💬 Ask me about<br>React.js, Node.js, Express, MongoDB, Tailwind CSS, GSAP, WebSockets, GraphQL, or Web3 DApp development.<br><br>⚡ Fun fact<br>I love blending frontend creativity with backend logic to craft seamless, scalable, and visually engaging web experiences.<br>Whether it’s a UI animation or a blockchain interaction — I’m all about making code feel alive ⚙️✨
 
 
