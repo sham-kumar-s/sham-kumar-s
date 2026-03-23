@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Sham Kumar
+# Hi, I'm Sham Kumar
 
-<h3 align="center">💻 Full Stack Developer | MERN | Java | Web3 Explorer</h3>
+<h3 align="center">Full Stack Developer | MERN | Java | Web3 Explorer</h3>
 
 ---
 
@@ -12,24 +12,24 @@
 ⚡ Passion: Building high-performance & interactive UIs
 ```
 
-🔭 I’m currently working on
+I’m currently working on
 Innovative React/Node.js projects, real-time apps using WebSockets, and blockchain-integrated DApps
 
-🤝 I’m looking to collaborate on
+I’m looking to collaborate on
 MERN, Web3, and open-source projects
 
-🌱 I’m currently learning
+I’m currently learning
 Next.js, GraphQL, SOAP APIs
 
-💬 Ask me about
+Ask me about
 React, Node.js, MongoDB, WebSockets, Tailwind, Web3
 
-⚡ Fun fact
+Fun fact
 I love blending frontend creativity with backend logic
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/sham-kumar-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
@@ -40,7 +40,7 @@ I love blending frontend creativity with backend logic
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### 🧠 Programming Languages
 
@@ -50,7 +50,7 @@ I love blending frontend creativity with backend logic
 
 ---
 
-### 🎨 Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
@@ -59,7 +59,7 @@ I love blending frontend creativity with backend logic
 
 ---
 
-### ⚙️ Backend
+### Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
@@ -67,14 +67,14 @@ I love blending frontend creativity with backend logic
 
 ---
 
-### 🗄️ Databases
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql)
 
 ---
 
-### ☁️ DevOps & Tools
+### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
@@ -84,7 +84,7 @@ I love blending frontend creativity with backend logic
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sham-kumar-s&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -97,7 +97,7 @@ I love blending frontend creativity with backend logic
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ### 🧑‍🎓 Collegia
 
@@ -108,7 +108,7 @@ I love blending frontend creativity with backend logic
 
 ---
 
-### 🌏 Cultural Circuit
+###  Cultural Circuit
 
 > Platform to preserve and showcase Indian culture
 
@@ -117,7 +117,7 @@ I love blending frontend creativity with backend logic
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sham-kumar-s&theme=tokyo-night" />
@@ -125,7 +125,7 @@ I love blending frontend creativity with backend logic
 
 ---
 
-## 💡 Developer Mindset
+## Developer Mindset
 
 > "I don’t just write code — I build experiences."
 
