@@ -125,14 +125,6 @@ I love blending frontend creativity with backend logic
 
 ---
 
-# 🔝 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sham-kumar-s&color=6&icon=5" />
-</p>
-
----
-
 ## 💡 Developer Mindset
 
 > "I don’t just write code — I build experiences."
